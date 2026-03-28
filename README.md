@@ -1,9 +1,15 @@
-# Experiments 🚀
+# Experiments
 
-Este repositório contém pequenos projetos, testes e experimentos que fiz seguindo tutoriais ou praticando programação.  
-É um espaço para aprender, errar e explorar ideias.  
+Repository containing small projects, tests, and experiments built while following tutorials or practicing new concepts across different languages and technologies.
 
-## Objetivo
-- Guardar códigos de prática  
-- Testar, praticar, melhorar e errar
-- Aprender sem restrições 
+## Purpose
+
+Not everything here is polished — and that's intentional. This repo exists to practice, explore ideas, and learn through trial and error without restrictions.
+
+## Structure
+
+The repository will be organized as new experiments are added, grouped by language or topic when applicable.
+
+## License
+
+Free for educational use.
